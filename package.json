@@ -1,0 +1,34 @@
+{
+  "name": "bliddev",
+  "version": "1.0.0",
+  "description": "_blindDev(*); starter package with gulp, scss and browser-sync",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.16.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wearenois3/blinddev.git"
+  },
+  "keywords": [
+    "blindDev",
+    "frontend",
+    "dev",
+    "front-end",
+    "html",
+    "css",
+    "scss"
+  ],
+  "author": "nois3",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/wearenois3/blinddev/issues"
+  },
+  "homepage": "https://github.com/wearenois3/blinddev#readme"
+}
